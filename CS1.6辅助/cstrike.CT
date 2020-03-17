@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>173</ID>
+      <Description>"指向队友血量"</Description>
+      <Color>FF0000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>718</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>172</ID>
+      <Description>"0墙1队友2敌人"</Description>
+      <Color>FF0000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>710</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>168</ID>
+      <Description>"购物"</Description>
+      <Color>FF0000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>3C0</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>174</ID>
+      <Description>"阵营(1恐怖分子2反恐精英)"</Description>
+      <Color>FF0000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>1C8</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>144</ID>
+      <Description>"全部人物地址"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>C0C0C0</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+1033240</Address>
+      <Offsets>
+        <Offset>208</Offset>
+        <Offset>4</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>166</ID>
+      <Description>"所有人HP"</Description>
+      <Color>C0C0C0</Color>
+      <VariableType>Float</VariableType>
+      <Address>cstrike.exe+1033240</Address>
+      <Offsets>
+        <Offset>160</Offset>
+        <Offset>4</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>169</ID>
+      <Description>"视角"</Description>
+      <Color>FF0000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>2C4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>152</ID>
+      <Description>"本身人物地址"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>FF0000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>208</Offset>
+        <Offset>4</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>163</ID>
+      <Description>"我的护甲"</Description>
+      <Color>FF0000</Color>
+      <VariableType>Float</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>1BC</Offset>
+        <Offset>4</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>161</ID>
+      <Description>"是否掉血"</Description>
+      <Color>FF0000</Color>
+      <VariableType>Float</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>16C</Offset>
+        <Offset>4</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>183</ID>
+      <Description>"本身人物地址"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>FF0000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>208</Offset>
+        <Offset>4</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>138</ID>
+      <Description>"我的HP "</Description>
+      <Color>FF0000</Color>
+      <VariableType>Float</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>160</Offset>
+        <Offset>4</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>153</ID>
+      <Description>"Z"</Description>
+      <Color>FF0000</Color>
+      <VariableType>Float</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>10</Offset>
+        <Offset>4</Offset>
+        <Offset>07c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>142</ID>
+      <Description>"Y"</Description>
+      <Color>FF0000</Color>
+      <VariableType>Float</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>c</Offset>
+        <Offset>4</Offset>
+        <Offset>07c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>140</ID>
+      <Description>"X"</Description>
+      <Color>FF0000</Color>
+      <VariableType>Float</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>8</Offset>
+        <Offset>4</Offset>
+        <Offset>07c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>184</ID>
+      <Description>"我的金钱"</Description>
+      <Color>FF0000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>1CC</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>148</ID>
+      <Description>"当前枪后坐力"</Description>
+      <Color>FF0000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>100</Offset>
+        <Offset>5EC</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"我的子弹数目"</Description>
+      <Color>FF0000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>CC</Offset>
+        <Offset>5EC</Offset>
+        <Offset>7c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"全体人员子弹数目(刷新)"</Description>
+      <Color>C0C0C0</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+1033240</Address>
+      <Offsets>
+        <Offset>CC</Offset>
+        <Offset>5EC</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>154</ID>
+      <Description>"人物直接信息+4"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+1033240</Address>
+      <Offsets>
+        <Offset>4</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>158</ID>
+      <Description>"我的名字(显示)"</Description>
+      <Color>FF0000</Color>
+      <VariableType>String</VariableType>
+      <Length>9</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>cstrike.exe+1B5A6C8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>159</ID>
+      <Description>"名字基址"</Description>
+      <Color>FF0000</Color>
+      <VariableType>String</VariableType>
+      <Length>9</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>cstrike.exe+19B37F2</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>165</ID>
+      <Description>"判断是否游戏ing2"</Description>
+      <Color>0000FF</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+114BB90</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>164</ID>
+      <Description>"判断是否游戏ing"</Description>
+      <Color>0000FF</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+114B98C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>179</ID>
+      <Description>"武器类型"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>5EC</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>177</ID>
+      <Description>"手雷冷却时间"</Description>
+      <VariableType>Float</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>B8</Offset>
+        <Offset>5EC</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>182</ID>
+      <Description>"当前人竖"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>16531BFC</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>替换了 fstp dword ptr [esi+000000B8]</Description>
+      <Address>1BFF750E</Address>
+      <ModuleName>mp.dll</ModuleName>
+      <ModuleNameOffset>750E</ModuleNameOffset>
+      <Before>
+        <Byte>05</Byte>
+        <Byte>00</Byte>
+        <Byte>68</Byte>
+        <Byte>0E</Byte>
+        <Byte>1C</Byte>
+      </Before>
+      <Actual>
+        <Byte>D9</Byte>
+        <Byte>9E</Byte>
+        <Byte>B8</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>E8</Byte>
+        <Byte>07</Byte>
+        <Byte>81</Byte>
+        <Byte>0A</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>替换了 call mp.dll+AF620</Description>
+      <Address>1BFF7514</Address>
+      <ModuleName>mp.dll</ModuleName>
+      <ModuleNameOffset>7514</ModuleNameOffset>
+      <Before>
+        <Byte>9E</Byte>
+        <Byte>B8</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>E8</Byte>
+        <Byte>07</Byte>
+        <Byte>81</Byte>
+        <Byte>0A</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>DC</Byte>
+        <Byte>05</Byte>
+        <Byte>10</Byte>
+        <Byte>68</Byte>
+        <Byte>0E</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+  <Structures StructVersion="2">
+    <Structure Name="未命名的结构" AutoFill="0" AutoCreate="1" DefaultHex="0" AutoDestroy="0" DoNotSaveLocal="0" RLECompression="1" AutoCreateStructsize="4096">
+      <Elements>
+        <Element Offset="0" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="4" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="76" Vartype="Float" Bytesize="4" RLECount="5" DisplayMethod="无符号整数"/>
+        <Element Offset="96" Vartype="4 Bytes" Bytesize="4" RLECount="5" DisplayMethod="无符号整数"/>
+        <Element Offset="116" Vartype="String" Bytesize="5" DisplayMethod="无符号整数"/>
+        <Element Offset="121" Vartype="Byte" Bytesize="1" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="124" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="128" Vartype="4 Bytes" Bytesize="4" RLECount="4" DisplayMethod="无符号整数"/>
+        <Element Offset="160" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="300" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="360" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="368" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="380" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="384" Vartype="4 Bytes" Bytesize="4" RLECount="7" DisplayMethod="无符号整数"/>
+        <Element Offset="412" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="416" Vartype="4 Bytes" Bytesize="4" RLECount="4" DisplayMethod="无符号整数"/>
+        <Element Offset="432" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="436" Vartype="4 Bytes" Bytesize="4" RLECount="10" DisplayMethod="无符号整数"/>
+        <Element Offset="476" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="484" Vartype="4 Bytes" Bytesize="4" RLECount="6" DisplayMethod="无符号整数"/>
+        <Element Offset="508" Vartype="Byte" Bytesize="1" RLECount="4" DisplayMethod="无符号整数"/>
+        <Element Offset="512" Vartype="4 Bytes" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="520" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="524" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="528" Vartype="Float" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="536" Vartype="4 Bytes" Bytesize="4" RLECount="116" DisplayMethod="无符号整数"/>
+      </Elements>
+    </Structure>
+    <Structure Name="123" AutoFill="0" AutoCreate="1" DefaultHex="0" AutoDestroy="0" DoNotSaveLocal="0" RLECompression="1" AutoCreateStructsize="4096">
+      <Elements>
+        <Element Offset="0" Vartype="4 Bytes" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="8" Vartype="Float" Bytesize="4" Description="X" DisplayMethod="无符号整数"/>
+        <Element Offset="12" Vartype="Float" Bytesize="4" Description="Y" DisplayMethod="无符号整数"/>
+        <Element Offset="16" Vartype="Float" Bytesize="4" Description="Z" DisplayMethod="无符号整数"/>
+        <Element Offset="20" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="24" Vartype="Byte" Bytesize="1" DisplayMethod="无符号整数"/>
+        <Element Offset="34" Vartype="Byte" Bytesize="1" DisplayMethod="无符号整数"/>
+        <Element Offset="39" Vartype="Byte" Bytesize="1" DisplayMethod="无符号整数"/>
+        <Element Offset="40" Vartype="4 Bytes" Bytesize="4" RLECount="10" DisplayMethod="无符号整数"/>
+        <Element Offset="80" Vartype="Float" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="88" Vartype="4 Bytes" Bytesize="4" RLECount="4" DisplayMethod="无符号整数"/>
+        <Element Offset="104" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="108" Vartype="4 Bytes" Bytesize="4" RLECount="4" DisplayMethod="无符号整数"/>
+        <Element Offset="124" Vartype="Byte" Bytesize="1" DisplayMethod="无符号整数"/>
+        <Element Offset="128" Vartype="4 Bytes" Bytesize="4" RLECount="46" DisplayMethod="无符号整数"/>
+        <Element Offset="312" Vartype="Pointer" Bytesize="4" RLECount="2" PointerSize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="320" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="324" Vartype="Float" Bytesize="4" RLECount="7" DisplayMethod="无符号整数"/>
+        <Element Offset="352" Vartype="Float" Bytesize="4" Description="血量" DisplayMethod="无符号整数"/>
+        <Element Offset="356" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="360" Vartype="Byte" Bytesize="1" DisplayMethod="无符号整数"/>
+        <Element Offset="364" Vartype="Float" Bytesize="4" Description="是否掉血" DisplayMethod="无符号整数"/>
+        <Element Offset="368" Vartype="Float" Bytesize="4" RLECount="4" DisplayMethod="无符号整数"/>
+        <Element Offset="384" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="392" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="396" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="400" Vartype="4 Bytes" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="408" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="416" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="420" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="432" Vartype="Float" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="444" Vartype="4 Bytes" Bytesize="4" RLECount="9" DisplayMethod="无符号整数"/>
+        <Element Offset="480" Vartype="Float" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="488" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="496" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="508" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="512" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="524" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="528" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="540" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="544" Vartype="4 Bytes" Bytesize="4" RLECount="15" DisplayMethod="无符号整数"/>
+        <Element Offset="604" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="612" Vartype="4 Bytes" Bytesize="4" RLECount="6" DisplayMethod="无符号整数"/>
+        <Element Offset="636" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="640" Vartype="4 Bytes" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="648" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="652" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="656" Vartype="Float" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="664" Vartype="4 Bytes" Bytesize="4" RLECount="37" DisplayMethod="无符号整数"/>
+        <Element Offset="812" Vartype="Pointer" Bytesize="4" RLECount="2" PointerSize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="820" Vartype="4 Bytes" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="828" Vartype="Unicode String" Bytesize="7" DisplayMethod="无符号整数"/>
+        <Element Offset="835" Vartype="Byte" Bytesize="1" DisplayMethod="无符号整数"/>
+        <Element Offset="836" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="840" Vartype="4 Bytes" Bytesize="4" RLECount="22" DisplayMethod="无符号整数"/>
+        <Element Offset="928" Vartype="Pointer" Bytesize="4" RLECount="2" PointerSize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="936" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="940" Vartype="Float" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="952" Vartype="4 Bytes" Bytesize="4" RLECount="12" DisplayMethod="无符号整数"/>
+      </Elements>
+    </Structure>
+    <Structure Name="未命名的结构" AutoFill="0" AutoCreate="1" DefaultHex="0" AutoDestroy="0" DoNotSaveLocal="0" RLECompression="1" AutoCreateStructsize="4096">
+      <Elements>
+        <Element Offset="0" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="4" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="8" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="16" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="28" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="32" Vartype="4 Bytes" Bytesize="4" RLECount="7" DisplayMethod="无符号整数"/>
+        <Element Offset="60" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="64" Vartype="4 Bytes" Bytesize="4" RLECount="4" DisplayMethod="无符号整数"/>
+        <Element Offset="80" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="84" Vartype="4 Bytes" Bytesize="4" RLECount="10" DisplayMethod="无符号整数"/>
+        <Element Offset="124" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="132" Vartype="4 Bytes" Bytesize="4" RLECount="6" DisplayMethod="无符号整数"/>
+        <Element Offset="156" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="160" Vartype="4 Bytes" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="168" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="172" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="176" Vartype="Float" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="184" Vartype="4 Bytes" Bytesize="4" RLECount="978" DisplayMethod="无符号整数"/>
+      </Elements>
+    </Structure>
+    <Structure Name="未命名的结构" AutoFill="0" AutoCreate="1" DefaultHex="0" AutoDestroy="0" DoNotSaveLocal="0" RLECompression="1" AutoCreateStructsize="4096">
+      <Elements>
+        <Element Offset="0" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="4" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="8" Vartype="Float" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="20" Vartype="4 Bytes" Bytesize="4" RLECount="14" DisplayMethod="无符号整数"/>
+        <Element Offset="76" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="84" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="88" Vartype="4 Bytes" Bytesize="4" RLECount="7" DisplayMethod="无符号整数"/>
+        <Element Offset="116" Vartype="Float" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="124" Vartype="4 Bytes" Bytesize="4" RLECount="15" DisplayMethod="无符号整数"/>
+        <Element Offset="184" Vartype="Pointer" Bytesize="4" RLECount="3" PointerSize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="196" Vartype="Float" Bytesize="4" RLECount="15" DisplayMethod="无符号整数"/>
+        <Element Offset="256" Vartype="4 Bytes" Bytesize="4" RLECount="6" DisplayMethod="无符号整数"/>
+        <Element Offset="280" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="288" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="292" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="304" Vartype="String" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="308" Vartype="Float" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="316" Vartype="4 Bytes" Bytesize="4" RLECount="9" DisplayMethod="无符号整数"/>
+        <Element Offset="352" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="356" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="360" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="368" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="380" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="384" Vartype="4 Bytes" Bytesize="4" RLECount="7" DisplayMethod="无符号整数"/>
+        <Element Offset="412" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="416" Vartype="4 Bytes" Bytesize="4" RLECount="4" DisplayMethod="无符号整数"/>
+        <Element Offset="432" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="436" Vartype="4 Bytes" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="444" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="448" Vartype="4 Bytes" Bytesize="4" RLECount="7" DisplayMethod="无符号整数"/>
+        <Element Offset="476" Vartype="Double" Bytesize="8" DisplayMethod="无符号整数"/>
+        <Element Offset="484" Vartype="4 Bytes" Bytesize="4" RLECount="6" DisplayMethod="无符号整数"/>
+        <Element Offset="508" Vartype="Float" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="512" Vartype="4 Bytes" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="520" Vartype="Pointer" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="524" Vartype="4 Bytes" Bytesize="4" DisplayMethod="无符号整数"/>
+        <Element Offset="528" Vartype="Float" Bytesize="4" RLECount="2" DisplayMethod="无符号整数"/>
+        <Element Offset="536" Vartype="4 Bytes" Bytesize="4" RLECount="890" DisplayMethod="无符号整数"/>
+      </Elements>
+    </Structure>
+  </Structures>
+</CheatTable>

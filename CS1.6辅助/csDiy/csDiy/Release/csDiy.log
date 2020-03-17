@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  CGame.cpp
+e:\桌面_逆向学习\cs1.6fuzhu\cs1.6_hook\cs1.6辅助\csdiy\csdiy\cgame.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+e:\桌面_逆向学习\cs1.6fuzhu\cs1.6_hook\cs1.6辅助\csdiy\csdiy\cgame.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+e:\桌面_逆向学习\cs1.6fuzhu\cs1.6_hook\cs1.6辅助\csdiy\csdiy\cgame.cpp(254): warning C4018: “<”: 有符号/无符号不匹配
+e:\桌面_逆向学习\cs1.6fuzhu\cs1.6_hook\cs1.6辅助\csdiy\csdiy\cgame.cpp(272): warning C4018: “<”: 有符号/无符号不匹配
+e:\桌面_逆向学习\cs1.6fuzhu\cs1.6_hook\cs1.6辅助\csdiy\csdiy\cgame.cpp(326): warning C4018: “<”: 有符号/无符号不匹配
+  CGameHook.cpp
+  CMyWin.cpp
+  csDiy.cpp
+    正在创建库 E:\桌面_逆向学习\CS1.6FUZHU\CS1.6_Hook\CS1.6辅助\csDiy\Release\csDiy.lib 和对象 E:\桌面_逆向学习\CS1.6FUZHU\CS1.6_Hook\CS1.6辅助\csDiy\Release\csDiy.exp
+  正在生成代码
+  0 of 409 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  csDiy.vcxproj -> E:\桌面_逆向学习\CS1.6FUZHU\CS1.6_Hook\CS1.6辅助\csDiy\Release\csDiy.dll
