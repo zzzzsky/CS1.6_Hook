@@ -8,4 +8,4 @@ CS1.6游戏详细分析请看吾爱破解： https://www.52pojie.cn/thread-11339
 
 **演示视频**
 
-![](https://www.bilibili.com/video/BV1cJ41137vN)
+https://www.bilibili.com/video/BV1cJ41137vN
